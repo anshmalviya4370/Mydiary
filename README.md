@@ -13,11 +13,11 @@ To run this project locally:
    Install dependencies
 
 2. Install dependencies
-     npm install
+     "npm install"
 
 3. Start the development server
-     npm start
-4. Open http://localhost:3000 in your browser.
+     "npm start"
+
 
    ![create a post](https://github.com/user-attachments/assets/56ad6563-2267-47f7-8cd6-1adb5666b4b0)
    ![view post](https://github.com/user-attachments/assets/e0b197a6-d199-4cd3-8891-b9b90a9b9a50)
