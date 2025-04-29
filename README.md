@@ -3,14 +3,14 @@ PersonalDiary2 is a minimalist web application designed for users to document th
 
 ## Getting Started
 
-To run this project locally:
+To run this project locally: make sure you have latest version of node installed 
 
 
-1. **Clone the repository**
+1. **Clone the repository or download the file**
    ```bash
    git clone https://github.com/your-username/personal-diary.git
    cd personal-diary
-   Install dependencies
+   
 
 2. Install dependencies
      "npm install"
